@@ -3,7 +3,11 @@ import React from 'react'
 const ExpenseItem = () => {
     return (
         <div>
-            <h2>Expense item in there!</h2>
+            <div>December 2, 2021</div>
+            <div>
+                <h2>Car Insurance</h2>
+                <div>$119</div>
+            </div>
         </div>
     )
 }
